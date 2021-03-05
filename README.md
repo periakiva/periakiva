@@ -2,7 +2,7 @@
 ## ✨ Hi there! ✨
 
 ### Current Topics of Interest
-* Instance and semantic segmentation
+* Instance, panoptic, and semantic segmentation
 * Weakly supervised methods
 * Generative Adversarial Networks
 * Applications in precision agriculture and remote sensing
