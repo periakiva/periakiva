@@ -1,3 +1,6 @@
+
+# ✨ Hi there! ✨
+
 ### Current Topics of Interest
 * Instance and semantic segmentation
 * Weakly supervised methods
@@ -5,7 +8,7 @@
 * Applications in precision agriculture and remote sensing
 
 <!--
-**matthewpurri/matthewpurri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**periakiva/periakiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
