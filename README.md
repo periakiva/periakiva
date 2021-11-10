@@ -1,5 +1,5 @@
 
-### What's up?  
+### What's up? 😄
 
 #### Current Topics of Interest
 * Self-supervision methods
