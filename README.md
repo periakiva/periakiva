@@ -2,6 +2,7 @@
 ## ✨ Hi there! ✨
 
 ### Current Topics of Interest
+* Self-supervision methods
 * Instance, panoptic, and semantic segmentation
 * Weakly supervised methods
 * Generative Adversarial Networks
