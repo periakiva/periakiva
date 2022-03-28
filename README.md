@@ -9,7 +9,7 @@
 * Applications in precision agriculture and remote sensing
 
 #### Recent Publications
-* [Self-Supervised Material and Texture Representation Learning for Remote Sensing Tasks](https://arxiv.org/abs/2112.01715) (Arxiv)
+* [Self-Supervised Material and Texture Representation Learning for Remote Sensing Tasks](https://arxiv.org/abs/2112.01715) (CVPR 2022)
 * [Towards Single Stage Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2106.10309.pdf) (Arxiv)
 * [AI on the Bog: Monitoring and Evaluating Cranberry Crop Risk](https://openaccess.thecvf.com/content/WACV2021/papers/Akiva_AI_on_the_Bog_Monitoring_and_Evaluating_Cranberry_Crop_Risk_WACV_2021_paper.pdf) (WACV 2021)
 * [H2O-Net: Self-Supervised Flood Segmentation via Adversarial Domain Adaptation and Label Refinement](https://openaccess.thecvf.com/content/WACV2021/papers/Akiva_H2O-Net_Self-Supervised_Flood_Segmentation_via_Adversarial_Domain_Adaptation_and_Label_WACV_2021_paper.pdf) (WACV 2021)
