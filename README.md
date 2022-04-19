@@ -3,6 +3,7 @@
 
 #### Current Topics of Interest
 * Self-supervision methods
+* Transformers
 * Instance, panoptic, and semantic segmentation
 * Weakly supervised methods
 * Generative Adversarial Networks
