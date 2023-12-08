@@ -10,6 +10,8 @@
 * Applications in precision agriculture and remote sensing
 
 #### Recent Publications
+* [Self-Supervised Object Detection from Egocentric Videos](https://openaccess.thecvf.com/content/ICCV2023/papers/Akiva_Self-Supervised_Object_Detection_from_Egocentric_Videos_ICCV_2023_paper.pdf) (ICCV 2023)
+* [Single Stage Weakly Supervised Semantic Segmentation of Complex Scenes](https://openaccess.thecvf.com/content/WACV2023/papers/Akiva_Single_Stage_Weakly_Supervised_Semantic_Segmentation_of_Complex_Scenes_WACV_2023_paper.pdf) (WACV 2023)
 * [Self-Supervised Material and Texture Representation Learning for Remote Sensing Tasks](https://arxiv.org/abs/2112.01715) (CVPR 2022, oral)
 * [Towards Single Stage Weakly Supervised Semantic Segmentation](https://arxiv.org/pdf/2106.10309.pdf) (Arxiv)
 * [AI on the Bog: Monitoring and Evaluating Cranberry Crop Risk](https://openaccess.thecvf.com/content/WACV2021/papers/Akiva_AI_on_the_Bog_Monitoring_and_Evaluating_Cranberry_Crop_Risk_WACV_2021_paper.pdf) (WACV 2021)
